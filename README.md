@@ -1,5 +1,5 @@
 ![Image](images/rovers.jpg)
-# Flutter Pokemon Application :boom:
+# Flutter TikTok Application :boom:
 
 <!-- ![Flutter_Pokemon_App](https://github.com/irahulcse/Flutter_Pokemon_App/.github/workflows/Flutter%20Web/badge.svg?branch=dev) -->
 
